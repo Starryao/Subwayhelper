@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Microsoft YaHei", "微软雅黑", system-ui, sans-serif;
+}
+
+body {
+  background-color: #E9EDF2;
+}
