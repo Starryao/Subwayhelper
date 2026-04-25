@@ -1,0 +1,6 @@
+{
+  "name": "地铁客流量更新小助手",
+  "description": "Metroway traffic data extraction tool from social media images using Gemini AI Vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
